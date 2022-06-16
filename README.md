@@ -1,3 +1,3 @@
 # SimuladorInductancia
 
-![simuladorEj.png](simuladorEj.jpg)
+![ejSimulacion.jpg](ejSimulacion.jpg)
